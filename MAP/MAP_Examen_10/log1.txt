@@ -1,0 +1,1161 @@
+ProgramState:{ID: 1ExecutionStack= {(Ref(int )v1;(Ref(int )v2;(Ref(int )v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))))))))|}
+SymbolTable= {}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(Ref(int )v2;(Ref(int )v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))))))|Ref(int )v1|}
+SymbolTable= {}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(Ref(int )v2;(Ref(int )v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))))))|Ref(int )v1|}
+SymbolTable= {}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(Ref(int )v2;(Ref(int )v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))))))|}
+SymbolTable= {v1->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(Ref(int )v2;(Ref(int )v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))))))|}
+SymbolTable= {v1->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(Ref(int )v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))))))|Ref(int )v2|}
+SymbolTable= {v1->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(Ref(int )v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))))))|Ref(int )v2|}
+SymbolTable= {v1->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(Ref(int )v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))))))|}
+SymbolTable= {v1->int ;v2->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(Ref(int )v3;(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))))))|}
+SymbolTable= {v1->int ;v2->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))))|Ref(int )v3|}
+SymbolTable= {v1->int ;v2->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))))|Ref(int )v3|}
+SymbolTable= {v1->int ;v2->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))))|}
+SymbolTable= {v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(int cnt;(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))))|}
+SymbolTable= {v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))))|int cnt|}
+SymbolTable= {v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))))|int cnt|}
+SymbolTable= {v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v1, 2);(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))|new(v1, 2)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))|new(v1, 2)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v2, 3);(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))|new(v2, 3)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))|new(v2, 3)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(new(v3, 4);(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))|new(v3, 4)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))|new(v3, 4)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(NewLatch( cnt, rH(v2);(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))|NewLatch( cnt, rH(v2)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))|NewLatch( cnt, rH(v2)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {}}ProgramState:{ID: 1ExecutionStack= {(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))));(await(cnt);(print(100);(CountDown(cnt);print(100)))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(await(cnt);(print(100);(CountDown(cnt);print(100))))|fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(await(cnt);(print(100);(CountDown(cnt);print(100))))|fork((wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(await(cnt);(print(100);(CountDown(cnt);print(100))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(await(cnt);(print(100);(CountDown(cnt);print(100))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(wH(v1, rH(v1)*10);(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))|wH(v1, rH(v1)*10)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))|wH(v1, rH(v1)*10)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->2
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(print(rH(v1));(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {}
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 10ExecutionStack= {(CountDown(cnt);fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->3
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 10ExecutionStack= {fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 10ExecutionStack= {fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 10ExecutionStack= {fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 10ExecutionStack= {fork((wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 10ExecutionStack= {}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 10ExecutionStack= {}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(wH(v2, rH(v2)*10);(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))|wH(v2, rH(v2)*10)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))|wH(v2, rH(v2)*10)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->3
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(print(rH(v2));(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 100ExecutionStack= {(CountDown(cnt);fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->2
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 100ExecutionStack= {fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 100ExecutionStack= {fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 100ExecutionStack= {fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 100ExecutionStack= {fork((wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt))))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 100ExecutionStack= {}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 100ExecutionStack= {}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {(wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {(wH(v3, rH(v3)*10);(print(rH(v3));CountDown(cnt)))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {(print(rH(v3));CountDown(cnt))|wH(v3, rH(v3)*10)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {(print(rH(v3));CountDown(cnt))|wH(v3, rH(v3)*10)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->4
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {(print(rH(v3));CountDown(cnt))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {(print(rH(v3));CountDown(cnt))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {(print(rH(v3));CountDown(cnt))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {(print(rH(v3));CountDown(cnt))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {CountDown(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {CountDown(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {CountDown(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1000ExecutionStack= {CountDown(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->1
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1000ExecutionStack= {}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1000ExecutionStack= {}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|await(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {(print(100);(CountDown(cnt);print(100)))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {(CountDown(cnt);print(100))|print(100)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {(CountDown(cnt);print(100))|print(100)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {(CountDown(cnt);print(100))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {(CountDown(cnt);print(100))|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {print(100)|CountDown(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {print(100)|CountDown(cnt)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {print(100)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {print(100)|}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}ProgramState:{ID: 1ExecutionStack= {}
+SymbolTable= {cnt->0;v1->int ;v2->int ;v3->int ;}
+Output= {20 10 30 100 40 1000 100 100 }
+
+Filetable= {}
+Heap={1->20
+2->30
+3->40
+}
+LatchTable= {0->0
+}}
